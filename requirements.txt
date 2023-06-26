@@ -1,0 +1,6 @@
+loguru==0.7.0
+moralis==0.1.37
+pandas
+tqdm==4.65.0
+web3==6.5.0
+
