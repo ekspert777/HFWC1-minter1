@@ -1,4 +1,4 @@
-<h1 align="center">Holograph How Far We've Come (HFWC1) Minter</h1>
+<h1 align="center">Holograph How Far We've Come (HFWC1) Minter&Bridger</h1>
 
 <h2>О боте</h2>
 Минтит новые нфт на https://app.holograph.xyz/</br>
